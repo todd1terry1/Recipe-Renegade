@@ -12,7 +12,7 @@ various recipe websites for inspiration.
 
 ## Deployed Website
 
-<https://shanebramble.github.io/recipe-renegade>
+https://todd1terry1.github.io/Recipe-Renegade/
 
 ### Built With
 
