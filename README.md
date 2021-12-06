@@ -8,7 +8,7 @@ keep your culinary game fresh if you lack new ideas and always prepare the same
 old dish that you inherited from your mum. This is why you need to check out
 various recipe websites for inspiration.
 
-![Recipe Renegade](assets/images/shanebramble-github-io-1920x1080desktop-6a251d.png)
+![Recipe Renegade](assets/images/rr.png)
 
 ## Deployed Website
 
